@@ -30,15 +30,43 @@
   + [Design for Offline: Android App Architecture Best Practices](https://plus.google.com/+AndroidDevelopers/posts/3C4GPowmWLb)
   + [Robust and readable architecture for an Android App](http://blog.joanzapata.com/robust-architecture-for-an-android-app/)
   + [Android application architecture](https://events.google.com/io2015/schedule?sid=358c9f91-b6d4-e411-b87f-00155d5066d7#day1/358c9f91-b6d4-e411-b87f-00155d5066d7)
+  + [阿里移动技术架构演进之路](https://www.sdk.cn/news/2219)
+  + [Android的MVP设计模式](http://blog.waynell.com/2015/05/29/mvp-on-android/)
+  + [Android App的设计架构：MVC,MVP,MVVM与架构经验谈](https://www.sdk.cn/news/2501)
+  + [Android 官方 MVP 架构示例项目解析](http://gold.xitu.io/entry/570d02cb1ea4930068e44a14)
+  + 
   
 2. Project
 
-
+https://github.com/ivacf/archi
 
 ### IOS
 
 1. Article
 
-
+    + [iOS应用架构谈](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
+    + [滴滴出行iOS客户端架构演进之路](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=402854111&idx=1&sn=5876e615fabd6d921285d904e16670fb)
+    + [猿题库 iOS 客户端架构设](http://mp.weixin.qq.com/s?__biz=MjM5NTIyNTUyMQ==&mid=444322139&idx=1&sn=c7bef4d439f46ee539aa76d612023d43)
+    + 
 
 2. Project
+
+
+### WEB
+
+1. Article
+
+    + [大型网站技术架构的演进](http://insights.thoughtworkers.org/website-architecture-evlovement/)
+    + [Stack Overflow: The Architecture2016](https://aleen42.gitbooks.io/personalwiki/content/translation/stack_overflow_architecture/stack_overflow_architecture.html)
+    + [一种适合创业公司的技术架构方案](http://blog.12xiaoshi.com/2016/03/30/tech/normal_design_base_aliyun/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+    + [从技术细节看美团的架构](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=408215395&idx=1&sn=cc49792ef0948a140c37d99306363774)
+    + [京东咚咚架构演进](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=401186254&idx=1&sn=1b3c81386973c99cad99079fcd6be6e3#rd)
+    + []()
+
+2. Project
+
+
+
+
+http://www.hollischuang.com/archives/1036
+http://www.jianshu.com/p/1f21e1d375aa
